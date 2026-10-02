@@ -7,7 +7,8 @@
 | Gmail | Connected | Time-sensitive email scan | Last 24h each morning |
 | Google Drive | Connected | Working docs | |
 | Mac home folder | Linked when the computer is online | Class notes, content drafts | Not reachable from scheduled tasks |
-| Claude Project | "Daily Assistant" | Where Nehemiah runs | Doc: "Daily Assistant Agent — Plan & Instructions.md" |
+| GitHub | Private repo (backup) | Version history for this folder | https://github.com/arielleisrael/ai-os |
+| Claude Project | "Nehemiah - Daily Assistant" | Where Nehemiah runs | Doc: "Daily Assistant Agent — Plan & Instructions.md" |
 
 ## Scheduled tasks
 
