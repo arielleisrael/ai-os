@@ -10,12 +10,12 @@ energy she actually has.
 | [`task-schema.md`](task-schema.md) | Task fields, where tasks live, cutover to Cairn |
 | [`integrations.md`](integrations.md) | Connected tools, IDs, scheduled tasks |
 | [`decisions.md`](decisions.md) | Why the rules are what they are |
-| [`prompts/`](prompts/) | Scheduled-task prompts (morning, nightly, weekly) |
+| [`prompts/`](prompts/) | Scheduled-task prompts (weekly plan, morning, nightly) + shared calendar rules |
 | [`archive/`](archive/) | Earlier versions of the plan |
 
 ## Where it runs
 
-Nehemiah runs as a Claude Project ("Daily Assistant") plus two scheduled tasks.
+Nehemiah runs as a Claude Project ("Daily Assistant") plus three scheduled tasks (weekly plan, morning check-in, nightly recap).
 Those run in the cloud and cannot read this folder, so after changing
 anything here:
 

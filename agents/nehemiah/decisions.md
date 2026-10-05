@@ -2,6 +2,13 @@
 
 Newest first. Each entry: what changed, why, and what would make us revisit it.
 
+## 2026-10-04 — Weekly plan + calendar conventions (v3)
+- **Decision:** a Sunday 8:50am weekly plan asks what's coming up and places the whole week's blocks. Morning check-in adjusts today's blocks to energy and new meetings; nightly recap moves carry-overs to the track's next day.
+- **Decision:** blocks are titled "🧱 <task>" (Nehemiah rebuilt the wall), tagged "Scheduled by Nehemiah" in the description, and color-coded by track (7 job search, 3 ReinventOps, 4 brand, 5 software factory, 1 church/home, 8 admin).
+- **Decision:** every routine checks the High Holy Days calendar and skips holy days; Log and Weekly tabs added to the sheet so energy and weekly scores persist between runs.
+- **Why:** Arielle liked daily blocks and wanted the week planned ahead, with less "Nehemiah" clutter in event names.
+- **Revisit if:** the week plan gets rebuilt most mornings (plan too full), or colors clash with her own events.
+
 ## 2026-10-01 — Agent definition lives in the ai-os repo
 - **Decision:** `agents/nehemiah/` is the source of truth; the Project and scheduled tasks are synced copies.
 - **Why:** version history on behavior changes; diffable prompts; a clean path to package agents later (AIOS kit, Uzziah's paid Skool community).
