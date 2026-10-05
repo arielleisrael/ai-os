@@ -9,8 +9,9 @@ energy she actually has.
 | [`goals.md`](goals.md) | Goals file, priority windows, weekly top 3 |
 | [`task-schema.md`](task-schema.md) | Task fields, where tasks live, cutover to Cairn |
 | [`integrations.md`](integrations.md) | Connected tools, IDs, scheduled tasks |
+| [`communication.md`](communication.md) | How to reach Nehemiah: Project chat, Inbox tab, handoff snippet for repos |
 | [`decisions.md`](decisions.md) | Why the rules are what they are |
-| [`prompts/`](prompts/) | Scheduled-task prompts (weekly plan, morning, nightly) + shared calendar rules |
+| [`prompts/`](prompts/) | Scheduled-task prompts (weekly plan, morning, nightly) + shared calendar and inbox rules |
 | [`archive/`](archive/) | Earlier versions of the plan |
 
 ## Where it runs

@@ -2,6 +2,13 @@
 
 Newest first. Each entry: what changed, why, and what would make us revisit it.
 
+## 2026-10-05 — Inbox handoffs + communication protocol (v4)
+- **Decision:** the Project chat is the direct line; an **Inbox** tab in the task sheet is the shared handoff point for Arielle, Claude Code sessions in her repos, and other chats. All three routines triage new Inbox rows (task + 🧱 block, answer, or drop) and record a Resolution.
+- **Decision:** handoff files live in a "Nehemiah" Google Drive folder, not a Mac folder or this repo (routines can't read the Mac; the repo is for agent definition). Routines add an Inbox row for any new file there.
+- **Decision:** no Discord/Slack for now; paused the older 9am "Daily briefing" task, which duplicated the morning check-in.
+- **Why:** Arielle wanted Nehemiah pullable into any work and able to adjust plans; using connected tools avoids a new build competing with Client #1 before Oct 31.
+- **Revisit if:** others need to reach Nehemiah, urgent handoffs wait too long between routines, or Cairn hits cutover.
+
 ## 2026-10-04 — Weekly plan + calendar conventions (v3)
 - **Decision:** a Sunday 8:50am weekly plan asks what's coming up and places the whole week's blocks. Morning check-in adjusts today's blocks to energy and new meetings; nightly recap moves carry-overs to the track's next day.
 - **Decision:** blocks are titled "🧱 <task>" (Nehemiah rebuilt the wall), tagged "Scheduled by Nehemiah" in the description, and color-coded by track (7 job search, 3 ReinventOps, 4 brand, 5 software factory, 1 church/home, 8 admin).
